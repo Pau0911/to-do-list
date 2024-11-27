@@ -1,0 +1,10 @@
+{
+  "name": "to-do-list",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular-standalone"
+}
